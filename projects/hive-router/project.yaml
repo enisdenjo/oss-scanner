@@ -1,0 +1,3 @@
+repo: https://github.com/graphql-hive/router#main
+primary_contact: security@the-guild.dev
+dockerfile: .oss-scanner/Dockerfile
